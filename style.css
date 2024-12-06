@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to bottom, #1a1a40, #121212);
+    color: #fff;
+}
+
+header {
+    background: #222;
+    padding: 1rem;
+    text-align: center;
+}
+
+h1 {
+    margin: 0 0 1rem;
+    color: #ffdd00;
+}
+
+#sökfält {
+    padding: 0.5rem;
+    margin-right: 0.5rem;
+    border: none;
+    border-radius: 5px;
+}
+
+button {
+    padding: 0.5rem 1rem;
+    background-color: #ffdd00;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+button:hover {
+    background-color: #ffc400;
+}
+
+#content {
+    padding: 1em;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1em;
+}
+
+.himlakropp {
+    background: #292929;
+    padding: 1em;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.himlakropp h2 {
+    color: #ffdd00;
+}
