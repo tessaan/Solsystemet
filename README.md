@@ -19,6 +19,3 @@ Användaren kan använda sökfältet för att filtrera himlakroppar baserat på 
 HTML5: För att bygga sidans struktur.
 CSS3: För att skapa en modern och responsiv design.
 JavaScript (ES6): För att hantera API-anrop och dynamisk rendering av data.
-# hekll4
-fg
-fd
